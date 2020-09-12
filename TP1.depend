@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1599935646 source:c:\users\santiago\desktop\facultad\laboratorio1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"opAritmeticas.h"
+
+1599910615 c:\users\santiago\desktop\facultad\laboratorio1\tp1\menu.h
+
+1599935452 c:\users\santiago\desktop\facultad\laboratorio1\tp1\oparitmeticas.h
+
+1599935494 source:c:\users\santiago\desktop\facultad\laboratorio1\tp1\oparitmeticas.c
+	<stdio.h>
+	<stdlib.h>
+
+1599930131 source:c:\users\santiago\desktop\facultad\laboratorio1\tp1\menu.c
+	<stdio.h>
+	<stdlib.h>
+
